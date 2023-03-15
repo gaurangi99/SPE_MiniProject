@@ -1,0 +1,8 @@
+---
+- name: Pull docker image of scientific-calculator
+  hosts: all
+  tasks:
+    - name: Pull scientific-calculator image
+      docker_image:
+        name: gaurangi99/spe-mini-project
+        source: pull
