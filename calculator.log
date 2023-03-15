@@ -1,0 +1,24 @@
+2023-03-16 00:09:06.277 [main] INFO  calculator.Calculator - SQUARE ROOT - 3.0
+2023-03-16 00:09:06.286 [main] INFO  calculator.Calculator - SQUARE ROOT - 3.0 - ANSWER 1.7320508075688772
+2023-03-16 00:09:06.286 [main] INFO  calculator.Calculator - SQUARE ROOT - 4.0
+2023-03-16 00:09:06.287 [main] INFO  calculator.Calculator - SQUARE ROOT - 4.0 - ANSWER 2.0
+2023-03-16 00:09:06.287 [main] INFO  calculator.Calculator - NATURAL LOG - 1.0
+2023-03-16 00:09:06.288 [main] INFO  calculator.Calculator - NATURAL LOG - 1.0 - ANSWER 0.0
+2023-03-16 00:09:06.288 [main] INFO  calculator.Calculator - NATURAL LOG - 1.0
+2023-03-16 00:09:06.289 [main] INFO  calculator.Calculator - NATURAL LOG - 1.0 - ANSWER 0.0
+2023-03-16 00:09:06.290 [main] INFO  calculator.Calculator - POWER - 2.0 RAISED TO 2.0
+2023-03-16 00:09:06.300 [main] INFO  calculator.Calculator - POWER - 2.0 RAISED TO 2.0 - ANSWER 4.0
+2023-03-16 00:09:06.301 [main] INFO  calculator.Calculator - POWER - 2.0 RAISED TO 3.0
+2023-03-16 00:09:06.301 [main] INFO  calculator.Calculator - POWER - 2.0 RAISED TO 3.0 - ANSWER 8.0
+2023-03-16 00:09:06.301 [main] INFO  calculator.Calculator - POWER - 2.0 RAISED TO 3.0
+2023-03-16 00:09:06.301 [main] INFO  calculator.Calculator - POWER - 2.0 RAISED TO 3.0 - ANSWER 8.0
+2023-03-16 00:09:06.302 [main] INFO  calculator.Calculator - POWER - 4.0 RAISED TO 3.0
+2023-03-16 00:09:06.302 [main] INFO  calculator.Calculator - POWER - 4.0 RAISED TO 3.0 - ANSWER 64.0
+2023-03-16 00:09:06.302 [main] INFO  calculator.Calculator - NATURAL LOG - 2.4
+2023-03-16 00:09:06.302 [main] INFO  calculator.Calculator - NATURAL LOG - 2.4 - ANSWER 0.8754687373538999
+2023-03-16 00:09:06.302 [main] INFO  calculator.Calculator - NATURAL LOG - 2.1
+2023-03-16 00:09:06.303 [main] INFO  calculator.Calculator - NATURAL LOG - 2.1 - ANSWER 0.7419373447293773
+2023-03-16 00:09:06.303 [main] INFO  calculator.Calculator - SQUARE ROOT - 4.0
+2023-03-16 00:09:06.303 [main] INFO  calculator.Calculator - SQUARE ROOT - 4.0 - ANSWER 2.0
+2023-03-16 00:09:06.303 [main] INFO  calculator.Calculator - SQUARE ROOT - 1.0
+2023-03-16 00:09:06.303 [main] INFO  calculator.Calculator - SQUARE ROOT - 1.0 - ANSWER 1.0
