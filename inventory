@@ -1,2 +1,2 @@
 [ubuntu]
-client1 ansible_host=172.16.144.216 ansible_connection=ssh ansible_ssh_user=satvika
+client1 ansible_host=172.16.144.216 ansible_connection=ssh ansible_ssh_user=satvika ansible_ssh_pass=satvika
