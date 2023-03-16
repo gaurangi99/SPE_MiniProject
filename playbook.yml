@@ -10,6 +10,7 @@
       shell: docker volume create logs
     - name: run container
       shell: docker run -it --name calculator -d -v /logs:/logs gaurangi99/spe-mini-project
+
 #      docker_container:
 #        name: calculator-using-devops
 #        image: gaurangi99/spe-mini-project
@@ -18,3 +19,14 @@
 #        interactive: yes
 ##        volumes:
 ##          -/
+
+# for communicating at a different machine
+#  commands to be run on Linux:
+#  ssh-copy-id username@ip_address
+#  ssh username@ip_address
+#  (if everything works fine, you'll be access the other person's machine)
+#  docker images (to check other person's system images)
+#  for inventory file:
+#  [ubuntu]
+#  ansible_host=172.16.144.216(different machine's ip_address) ansible_connection=ssh ansible_ssh_user=satvika ansible_ssh_pass=satvika
+
