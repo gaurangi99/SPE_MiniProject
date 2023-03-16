@@ -24,6 +24,7 @@
 #  commands to be run on Linux:
 #  ssh-copy-id username@ip_address
 #  ssh username@ip_address
+#  sudo apt-get install sshpass
 #  (if everything works fine, you'll be access the other person's machine)
 #  docker images (to check other person's system images)
 #  for inventory file:
