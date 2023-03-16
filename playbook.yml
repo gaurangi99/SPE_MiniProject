@@ -1,8 +1,8 @@
 ---
 - name: Pull docker image of scientific-calculator
   hosts: localhost
-#  vars:
-#    ansible_python_interpreter: /usr/bin/python3
+  vars:
+    ansible_python_interpreter: /usr/bin/python3
   tasks:
     - name: Pull scientific-calculator image
       shell: docker pull gaurangi99/spe-mini-project
