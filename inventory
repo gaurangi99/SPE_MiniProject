@@ -1,2 +1,2 @@
 [ubuntu]
-localhost 172.16.144.61 ansible_usr=ansible_usr
+172.16.144.61 ansible_usr=ansible_usr
