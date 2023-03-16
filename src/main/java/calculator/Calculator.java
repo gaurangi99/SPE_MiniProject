@@ -19,7 +19,7 @@ public class Calculator {
         return ans;
     }
     public double fact(double num) {
-        double factorial = 1;
+        int factorial = 1;
         for(int i = 1; i <= num; i++)
             factorial = factorial * i;
         return  factorial;

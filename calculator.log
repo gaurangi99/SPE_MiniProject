@@ -46,3 +46,27 @@
 2023-03-16 00:40:20.250 [main] INFO  calculator.Calculator - SQUARE ROOT - 4.0 - ANSWER 2.0
 2023-03-16 00:40:20.250 [main] INFO  calculator.Calculator - SQUARE ROOT - 1.0
 2023-03-16 00:40:20.250 [main] INFO  calculator.Calculator - SQUARE ROOT - 1.0 - ANSWER 1.0
+2023-03-16 19:03:50.154 [main] INFO  calculator.Calculator - SQUARE ROOT - 3.0
+2023-03-16 19:03:50.168 [main] INFO  calculator.Calculator - SQUARE ROOT - 3.0 - ANSWER 1.7320508075688772
+2023-03-16 19:03:50.169 [main] INFO  calculator.Calculator - SQUARE ROOT - 4.0
+2023-03-16 19:03:50.169 [main] INFO  calculator.Calculator - SQUARE ROOT - 4.0 - ANSWER 2.0
+2023-03-16 19:03:50.170 [main] INFO  calculator.Calculator - NATURAL LOG - 1.0
+2023-03-16 19:03:50.172 [main] INFO  calculator.Calculator - NATURAL LOG - 1.0 - ANSWER 0.0
+2023-03-16 19:03:50.172 [main] INFO  calculator.Calculator - NATURAL LOG - 1.0
+2023-03-16 19:03:50.172 [main] INFO  calculator.Calculator - NATURAL LOG - 1.0 - ANSWER 0.0
+2023-03-16 19:03:50.175 [main] INFO  calculator.Calculator - POWER - 2.0 RAISED TO 2.0
+2023-03-16 19:03:50.195 [main] INFO  calculator.Calculator - POWER - 2.0 RAISED TO 2.0 - ANSWER 4.0
+2023-03-16 19:03:50.195 [main] INFO  calculator.Calculator - POWER - 2.0 RAISED TO 3.0
+2023-03-16 19:03:50.196 [main] INFO  calculator.Calculator - POWER - 2.0 RAISED TO 3.0 - ANSWER 8.0
+2023-03-16 19:03:50.197 [main] INFO  calculator.Calculator - POWER - 2.0 RAISED TO 3.0
+2023-03-16 19:03:50.197 [main] INFO  calculator.Calculator - POWER - 2.0 RAISED TO 3.0 - ANSWER 8.0
+2023-03-16 19:03:50.197 [main] INFO  calculator.Calculator - POWER - 4.0 RAISED TO 3.0
+2023-03-16 19:03:50.198 [main] INFO  calculator.Calculator - POWER - 4.0 RAISED TO 3.0 - ANSWER 64.0
+2023-03-16 19:03:50.199 [main] INFO  calculator.Calculator - NATURAL LOG - 2.4
+2023-03-16 19:03:50.199 [main] INFO  calculator.Calculator - NATURAL LOG - 2.4 - ANSWER 0.8754687373538999
+2023-03-16 19:03:50.200 [main] INFO  calculator.Calculator - NATURAL LOG - 2.1
+2023-03-16 19:03:50.200 [main] INFO  calculator.Calculator - NATURAL LOG - 2.1 - ANSWER 0.7419373447293773
+2023-03-16 19:03:50.201 [main] INFO  calculator.Calculator - SQUARE ROOT - 4.0
+2023-03-16 19:03:50.202 [main] INFO  calculator.Calculator - SQUARE ROOT - 4.0 - ANSWER 2.0
+2023-03-16 19:03:50.202 [main] INFO  calculator.Calculator - SQUARE ROOT - 1.0
+2023-03-16 19:03:50.203 [main] INFO  calculator.Calculator - SQUARE ROOT - 1.0 - ANSWER 1.0
