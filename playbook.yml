@@ -8,12 +8,12 @@
       shell: docker pull gaurangi99/spe-mini-project
 
     - name: run container
-#      shell: docker run -i -t --name calculator -d gaurangi99/spe-mini-project
-      docker_container:
-        name: calculator-using-devops
-        image: gaurangi99/spe-mini-project
-        state: started
-        tty: yes
-        interactive: yes
-#        volumes:
-#          -/
+      shell: docker run -i -t --name calculator -d gaurangi99/spe-mini-project
+#      docker_container:
+#        name: calculator-using-devops
+#        image: gaurangi99/spe-mini-project
+#        state: started
+#        tty: yes
+#        interactive: yes
+##        volumes:
+##          -/
