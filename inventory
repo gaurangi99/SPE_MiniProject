@@ -1,5 +1,2 @@
 [ubuntu]
-172.16.144.61
-
-[container_grp]
-172.17.0.2
+172.16.144.216 ansible_usr=satvika
