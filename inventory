@@ -1,1 +1,2 @@
+[ubuntu]
 localhost 172.16.144.61 ansible_ssh_user = ansible_usr ansible_ssh_pass = gul123
