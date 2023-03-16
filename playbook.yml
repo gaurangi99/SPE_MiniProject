@@ -3,6 +3,7 @@
   hosts: all
   tasks:
     - name: Pull scientific-calculator image
-      docker_image:
-        name: gaurangi99/spe-mini-project
-        source: pull
+      shell: docker pull gaurangi99/spe-mini-project
+
+    - name: run container
+      shell: docker run -i -t --name calculator -d gaurangi99/spe-mini-project
