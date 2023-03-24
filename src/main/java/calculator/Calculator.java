@@ -13,9 +13,9 @@ public class Calculator {
     }
 
     public double getSquareRoot(double num) {
-        logger.info("SQUARE ROOT - " + num);
+        logger.info("SQUARE ROOT-" + num);
         double ans = Math.sqrt(num);
-        logger.info("SQUARE ROOT - " + num + " - ANSWER " + ans);
+        logger.info("SQUARE ROOT-" + num + "-ANSWER " + ans);
         return ans;
     }
     public double fact(double num) {
@@ -25,21 +25,21 @@ public class Calculator {
         return  factorial;
     }
     public double getFactoral(double num) {
-        logger.info("FACTORIAL - " + num);
+        logger.info("FACTORIAL-" + num);
         double ans = fact(num);
-        logger.info("FACTORIAL - " + num + " - ANSWER " + ans);
+        logger.info("FACTORIAL-" + num + "-ANSWER " + ans);
         return ans;
     }
 
     public double getPower(double num, double power) {
-        logger.info("POWER - " + num + " RAISED TO " + power);
+        logger.info("POWER-" + num + "RAISED TO " + power);
         double ans = Math.pow(num, power);
-        logger.info("POWER - " + num + " RAISED TO " + power + " - ANSWER " + ans);
+        logger.info("POWER-" + num + "RAISED TO" + power + "-ANSWER " + ans);
         return ans;
     }
 
     public double getNaturalLog(double num) {
-        logger.info("NATURAL LOG - " + num);
+        logger.info("NATURAL LOG-" + num);
         double ans = 0;
         try {
 
@@ -53,7 +53,7 @@ public class Calculator {
         } catch (ArithmeticException error) {
             System.out.println("EXCEPTION LOG - Cannot find log of negative numbers " + error.getLocalizedMessage());
         }
-        logger.info("NATURAL LOG - " + num + " - ANSWER " + ans);
+        logger.info("NATURAL LOG-" + num + "-ANSWER " + ans);
         return ans;
     }
     public static void main(String[] args) {
