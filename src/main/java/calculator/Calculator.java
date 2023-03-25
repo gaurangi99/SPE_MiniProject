@@ -14,7 +14,19 @@ public class Calculator {
 
     public double getSquareRoot(double num) {
         logger.info("SQUARE ROOT-" + num);
-        double ans = Math.sqrt(num);
+        double ans=0;
+        try {
+
+            if (num <0 ) {
+                ans = Double.NaN;
+                throw new ArithmeticException("Case of NaN 0.0^0.0");
+            }
+            else {
+                ans = Math.sqrt(num);
+            }
+        } catch (ArithmeticException error) {
+            System.out.println("EXCEPTION SQROOT - Cannot find sq. root of negative numbers " + error.getLocalizedMessage());
+        }
         logger.info("SQUARE ROOT-" + num + "-ANSWER " + ans);
         return ans;
     }
